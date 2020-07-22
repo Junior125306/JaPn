@@ -1,4 +1,4 @@
-通过[ruby](https://www.w3.org/TR/2001/REC-ruby-20010531/) 实现对mdw文件里日语的平假名/片假名注音
+通过[ruby](https://www.w3.org/TR/2001/REC-ruby-20010531/) 实现对md文件里日语的平假名/片假名注音
 
 **<p align="center">私わたし<ruby><rb>私</rb><rt>わたし</rt></ruby>の　一日いちにち<ruby><rb>一日</rb><rt>いちにち</rt></ruby>です</p>**
 
